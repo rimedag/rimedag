@@ -11,7 +11,7 @@ by tens of thousands of users.
 
 ### Products
 
-- [**RPAI Clarity**](https://demo.rpai.rs/) — browser-based automation opportunity assessment and decision support before automation investment
+- [**RPAI Clarity**](https://github.com/rimedag/rpai-clarity) — browser-based automation opportunity assessment and decision support before automation investment · [Live demo](https://demo.rpai.rs/)
 - [**Stillpoint**](https://github.com/rimedag/stillpoint) — local-first notes and lightweight planning; desktop v1.0 available, evolving from RPAI Daily
 - **Wavebreak** — distraction-free browser and workspace · *in development*
 - [**NoirSonance**](https://noirsonance.com/) — audio software portfolio with ~50,000 cumulative downloads
