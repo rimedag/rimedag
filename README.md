@@ -14,7 +14,7 @@ product and automation leadership — and I still build.
 
 - **[RPAI Systems](https://rpa.rs)** — automation products and consulting
 - **[NoirSonance](https://noirsonance.com/)** — audio software: plugins and producer tools, ~50,000 cumulative downloads
-- **Stillpoint** — local-first thinking and note workspace · *in development*
+- **[Stillpoint](https://github.com/rimedag/stillpoint)** — local-first notes and lightweight planning; desktop v1.0 available, evolving from RPAI Daily
 - **Wavebreak** — distraction-free browser and workspace · *in development*
 
 ### Track record
