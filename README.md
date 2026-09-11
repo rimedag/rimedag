@@ -28,7 +28,7 @@ by tens of thousands of users.
 
 ### Track record
 
-- 50+ automations delivered across EMEA
+- 100+ automations delivered across international enterprise programs
 - ~€355K annual cost avoidance from a single delivered automation initiative
 - ~50,000 cumulative software downloads
 - 3× UiPath MVP
