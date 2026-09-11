@@ -22,6 +22,10 @@ by tens of thousands of users.
 - [**RPAI Systems**](https://rpa.rs/) — automation products, methodology and consulting
 - [**NoirSonance**](https://noirsonance.com/) — independent audio software
 
+### Other work
+
+- [**Rimedag**](https://rimedag.com/) — independent game development, publishing and label experiments; exploring product, brand and distribution outside automation and audio software
+
 ### Track record
 
 - 50+ automations delivered across EMEA
